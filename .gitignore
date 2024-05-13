@@ -1,0 +1,7 @@
+# Ignore basic files and directories
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore gcp keys folder
+/keys/

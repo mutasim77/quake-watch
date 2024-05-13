@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+    - name: staging
+      database: copper-axiom-326903
+      schema: earthquake_dataset
+
+      tables:
+        - name: earthquake_data
+        - name: significant_earthquakes
+        - name: central_asia_eearthquakes
