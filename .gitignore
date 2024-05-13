@@ -4,4 +4,4 @@
 .DS_Store
 
 # Ignore gcp keys folder
-/keys/
+*keys/
